@@ -1,5 +1,3 @@
-# global-disease-burden-analysis
-A complete Python-based exploratory data analysis of global disease burden (2010–2019).
 # Global Disease Burden Analysis (2010–2019)
 
 This project explores global disease burden patterns over a 10-year period (2010–2019) using a cleaned dataset of 33,360 records. The analysis focuses on understanding trends across countries, diseases, and age groups, and identifying the major drivers of global health challenges.
